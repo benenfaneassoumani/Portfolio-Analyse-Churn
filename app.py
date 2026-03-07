@@ -67,22 +67,41 @@ if df is not None:
     with tab2:
         st.write("Les données suggèrent que les actions suivantes pourraient améliorer la fidélisation et stabiliser le chiffre d'affaires.")
         
-        with st.expander("🔴 Urgence (Scores 10 à 12)"):
-            st.write("- **Conversion vers un contrat avec engagement** : proposer un passage au contrat d'un an avec remise de 30 pour cent sur les 3 premiers mois.")
-            st.write("- **Audit technique premium pour les clients Fibre** : intervention proactive pour optimiser l'installation.")
-            st.write("- **Incitation au prélèvement automatique** : crédit de 15 euros pour abandonner le paiement par chèque.")
-            st.write("- **Programme d'accompagnement des nouveaux clients** : appels de suivi aux troisième et sixième mois.")
+        with st.expander("🔴 Urgence (Scores 10 à 12) - Sécurisation Immédiate"):
+            st.write("**1. Cible :** Clients avec contrat mensuel (\"Month-to-month\")")
+            st.write("**Action :** Conversion vers un contrat d'un an avec remise de 30 pour cent sur les 3 premiers mois.")
+            st.write("---")
+            st.write("**2. Cible :** Clients équipés de la Fibre Optique")
+            st.write("**Action :** Audit technique pour optimiser l'installation et réduire les problèmes liés au réseau sans fil (Wi-Fi).")
+            st.write("---")
+            st.write("**3. Cible :** Clients payant manuellement par chèque électronique")
+            st.write("**Action :** Incitation au prélèvement automatique avec un crédit de 15 euros sur la prochaine facture.")
+            st.write("---")
+            st.write("**4. Cible :** Nouveaux clients (Ancienneté inférieure à 20 mois)")
+            st.write("**Action :** Programme d'accompagnement avec des appels de suivi aux troisième et sixième mois.")
 
-        with st.expander("🟠 Alerte renforcée (Scores 7 à 9)"):
-            st.write("5. **Support technique premium** : assistance prioritaire offerte pendant 6 mois.")
-            st.write("6. **Pack protection sécurité** : antivirus et sécurité réseau à 1 euro par mois.")
-            st.write("7. **Facture interactive** : courrier électronique pédagogique expliquant les services consommés.")
-            st.write("8. **Espace de stockage gratuit** : 50 Gigaoctets offerts pour renforcer l'attachement à l'écosystème.")
+        with st.expander("🟠 Alerte renforcée (Scores 7 à 9) - Enrichissement des services"):
+            st.write("**5. Cible :** Clients sans support technique souscrit")
+            st.write("**Action :** Assistance technique offerte pendant 6 mois pour rassurer le client en cas de panne.")
+            st.write("---")
+            st.write("**6. Cible :** Clients sans option de sécurité en ligne")
+            st.write("**Action :** Pack protection (antivirus et sécurité réseau) proposé à 1 euro par mois.")
+            st.write("---")
+            st.write("**7. Cible :** Clients en facturation dématérialisée")
+            st.write("**Action :** Mise en place d'une facture interactive par courrier électronique expliquant les services consommés.")
+            st.write("---")
+            st.write("**8. Cible :** Clients sans sauvegarde en ligne")
+            st.write("**Action :** 50 Gigaoctets d'espace de stockage (Cloud) offerts pour sauvegarder les données du client.")
 
         with st.expander("🟢 Optimisation du Lien Relationnel (Scores inférieurs à 7)"):
-            st.write("9. **Parcours senior dédié** : assistance simplifiée et conseillers spécialisés.")
-            st.write("10. **Offre Duo** : réduction sur une seconde ligne mobile pour un proche.")
-            st.write("11. **Pack Mobilité** : transfert gratuit de l'abonnement lors d'un déménagement et prêt d'une clé 4G.")
+            st.write("**9. Cible :** Clients Séniors")
+            st.write("**Action :** Parcours dédié avec une ligne d'assistance simplifiée.")
+            st.write("---")
+            st.write("**10. Cible :** Clients ayant un partenaire (en couple)")
+            st.write("**Action :** Offre Duo avec réduction sur une seconde ligne mobile pour l'autre membre du foyer.")
+            st.write("---")
+            st.write("**11. Cible :** Clients célibataires (sans partenaire)")
+            st.write("**Action :** Pack Divertissement. Inclure un abonnement à un service de films ou de musique à un tarif réduit pour lier l'utilisation d'internet aux loisirs quotidiens.")
 
     # --- ONGLET 3 : 📈 RAPPORT POWER BI ---
     with tab3:
