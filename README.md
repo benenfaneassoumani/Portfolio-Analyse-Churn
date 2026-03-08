@@ -194,4 +194,8 @@ L’objectif est d’augmenter la valeur perçue de l’abonnement et de renforc
 
 
 ##  Contact
-N'hésitez pas à me contacter pour échanger sur ce projet ou discuter d'opportunités en Data Analysis / Data Science.
+
+Pour toute question concernant ce projet ou pour discuter d'opportunités en  Data Science :
+
+- LinkedIn : www.linkedin.com/in/ben-enfaneassoumani
+- Email : benenfane.assoumani@gmail.com
