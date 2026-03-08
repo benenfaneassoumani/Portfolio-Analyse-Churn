@@ -58,6 +58,7 @@ Application interactive Streamlit
 
 ## Structure du projet
 
+```
 Portfolio-Analyse-Churn
 │
 ├── README.md
@@ -77,6 +78,7 @@ Portfolio-Analyse-Churn
     ├── powerbi_churn.pbix
     ├── dax_measures.md
     └── capturepowerbi.png
+```
 
 ##  Partie SQL
 Le dossier `sql/` contient l’ensemble du pipeline analytique.
@@ -187,10 +189,9 @@ Proposer une assistance adaptée aux utilisateurs moins familiers avec les outil
 Encourager l’ajout de lignes supplémentaires afin d’augmenter la dépendance au service.
 
 11. **Pack Divertissement**
-
 Proposer un abonnement à un service de streaming (films, séries ou musique) à tarif réduit afin d’associer l’usage d’internet aux loisirs numériques.  
 L’objectif est d’augmenter la valeur perçue de l’abonnement et de renforcer l’ancrage du client dans l’écosystème de services de l’opérateur.
----
+
 
 ##  Contact
 N'hésitez pas à me contacter pour échanger sur ce projet ou discuter d'opportunités en Data Analysis / Data Science.
