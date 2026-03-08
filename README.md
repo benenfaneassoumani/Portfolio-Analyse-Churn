@@ -189,7 +189,6 @@ Proposer une assistance adaptée aux utilisateurs moins familiers avec les outil
 Encourager l’ajout de lignes supplémentaires afin d’augmenter la dépendance au service.
 
 11. **Pack Divertissement**
-
 Proposer un abonnement à un service de streaming (films, séries ou musique) à tarif réduit afin d’associer l’usage d’internet aux loisirs numériques.  
 L’objectif est d’augmenter la valeur perçue de l’abonnement et de renforcer l’ancrage du client dans l’écosystème de services de l’opérateur.
 
