@@ -124,7 +124,8 @@ Le dossier `powerbi/` contient le tableau de bord décisionnel.
 * **Indicateurs clés** : Nombre total de clients, revenu mensuel, score moyen de risque, clients à risque élevé, revenu exposé au churn.
 * **Logique DAX** : Détails disponibles dans `dax_measures.md`.
 * **Aperçu du dashboard** :
-![Capture Power BI](./capturepowerbi.png)
+Le rendu interactif est visible sur l'application Streamlit. Vous pouvez également visionner la courte démonstration vidéo ici : 
+[ Voir la vidéo de démonstration](./demo_powerbi.mp4)
 
 ---
 
