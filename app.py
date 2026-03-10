@@ -109,4 +109,5 @@ if df is not None:
         st.write("En complément de cet outil interactif, un tableau de bord décisionnel a été développé avec Power BI afin de suivre les indicateurs financiers liés au churn et de segmenter les clients selon leur niveau de risque.")
         
         # Affichage de la vidéo de démonstration
-        st.video("demo_powerbi.mp4", caption="Tableau de bord décisionnel Power BI")
+        st.video("demo_powerbi.mp4")
+        st.caption("Tableau de bord décisionnel Power BI - Démonstration interactive")
