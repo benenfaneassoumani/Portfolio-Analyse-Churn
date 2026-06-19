@@ -19,7 +19,7 @@ Caractéristiques :
 
 ##   Technologies utilisées
 * **Base de données** : Oracle SQL (SQLPlus, SQLLoader)
-* **Langages** : SQL, DAX, Python
+* **Langages** : SQL, Python
 * **Business Intelligence** : Power BI
 * **Application Data** : Streamlit
 * **Versionnement** : Git, GitHub
