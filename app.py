@@ -103,11 +103,4 @@ if df is not None:
             st.write("**11. Cible :** Clients célibataires (sans partenaire)")
             st.write("**Action :** Pack Divertissement. Inclure un abonnement à un service de films ou de musique à un tarif réduit pour lier l'utilisation d'internet aux loisirs quotidiens.")
 
-    # --- ONGLET 3 : 📈 RAPPORT POWER BI ---
-    with tab3:
-        st.subheader("Dashboard décisionnel Power BI ")
-        st.write("En complément de cet outil interactif, un tableau de bord décisionnel a été développé avec Power BI afin de suivre les indicateurs financiers liés au churn et de segmenter les clients selon leur niveau de risque.")
-        
-        # Affichage de la vidéo de démonstration
-        st.video("demo_powerbi.mp4")
-        st.caption("Tableau de bord décisionnel Power BI - Démonstration interactive")
+
