@@ -23,10 +23,10 @@ st.write("Objectif du projet : L’objectif de ce projet est d’analyser le ris
 
 if df is not None:
     # --- STRUCTURE DES ONGLETS ---
-    tab1, tab2, tab3 = st.tabs([
+    tab1, tab2 = st.tabs([
         "📊 Tableau de Bord Interactif", 
-        "🎯 Stratégies de Fidélisation", 
-        "📈 Rapport Power BI"
+        "🎯 Stratégies de Fidélisation" 
+        
     ])
 
     # --- ONGLET 1 : 📊 TABLEAU DE BORD INTERACTIF ---
