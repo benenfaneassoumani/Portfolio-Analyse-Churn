@@ -120,12 +120,9 @@ Le dossier `sql/` contient l’ensemble du pipeline analytique.
 
 ##  Dashboard Power BI
 Le dossier `powerbi/` contient le tableau de bord décisionnel.
-* **Fichier principal** : `powerbi_churn.pbix`
-* **Indicateurs clés** : Nombre total de clients, revenu mensuel, score moyen de risque, clients à risque élevé, revenu exposé au churn.
+* **Fichier principal** : `Powerbi_churn_telecom.pbix`
 * **Logique DAX** : Détails disponibles dans `dax_measures.md`.
-* **Aperçu du dashboard** :
-Le rendu interactif est visible sur l'application Streamlit. Vous pouvez également visionner la courte démonstration vidéo ici : 
-[ Voir la vidéo de démonstration](./demo_powerbi.mp4)
+
 
 ---
 
